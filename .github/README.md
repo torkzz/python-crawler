@@ -1,6 +1,3 @@
-Here's a `README.md` for your web crawler project, formatted for open source:
-
-```markdown
 # Simple Web Crawler
 
 A simple Python-based web crawler that recursively extracts and prints all the hyperlinks found on a given webpage.
