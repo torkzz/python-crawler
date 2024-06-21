@@ -20,7 +20,7 @@ First, clone the repository:
 
 ```sh
 git clone https://github.com/torkzz/python-crawler.git
-cd simple-web-crawler
+cd python-crawler
 ```
 
 Next, install the required libraries:
